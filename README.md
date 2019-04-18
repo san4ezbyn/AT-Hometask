@@ -1,5 +1,12 @@
-HomeTask Branch
+HomeTask 
+========
+MASTER
+========
+AT-Hometask
+===========
+Automation Mentoring program. 
 
-#BRANCH##BRANCH##BRANCH##BRANCH##BRANCH##BRANCH#
-#BRANCH##BRANCH##BRANCH##BRANCH##BRANCH##BRANCH#
-#BRANCH##BRANCH##BRANCH##BRANCH##BRANCH##BRANCH#
+Lead mentor: His lordship Andrew Zaitsev. 
+
+Lead of the leads: His Majesty Kiryl Karpov.
+
