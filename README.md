@@ -1,4 +1,4 @@
-
+(some text in master)
 ==============
 File: HomeTask
 Project: AT-Hometask
